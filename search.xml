@@ -4,6 +4,38 @@
   
     
     <entry>
+      <title>基于鸟哥的linux学习</title>
+      <link href="/2023/03/23/%E5%B9%B6%E8%A1%8C%E5%A4%A7%E5%9D%91%E2%80%94%E2%80%94linux/"/>
+      <url>/2023/03/23/%E5%B9%B6%E8%A1%8C%E5%A4%A7%E5%9D%91%E2%80%94%E2%80%94linux/</url>
+      
+        <content type="html"><![CDATA[<p>使用的linux distributio ：ubuntu</p><pre><code>             一。linux的文件权限和目录配置</code></pre><p>（一）用户与用户组<br>1。用户：假设一个有一个房子，里面住着三个人，对于他们住的每个房间来说，他们就是所有者。他们每个人的私密文件就相当于他们房间里面抽屉（个人空间嘛）不能随便拿出来看的。<br>2.用户组：用户组的概念就是，家中三个人公用的那一个客厅，三个人都可以在里面看电视吃饭，因为都在同一个组嘛。<br>3.其他人：相对用户组来说的，对于成员来说不是用户组的人，称之为其他人，如果访问用户组的文件，只有通过成员的同意。<br>4.root</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> linux </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>我的一个新坑——ROS</title>
+      <link href="/2023/03/23/%E6%88%91%E7%9A%84%E4%B8%80%E4%B8%AA%E6%96%B0%E5%9D%91%E2%80%94%E2%80%94ROS/"/>
+      <url>/2023/03/23/%E6%88%91%E7%9A%84%E4%B8%80%E4%B8%AA%E6%96%B0%E5%9D%91%E2%80%94%E2%80%94ROS/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>我的第一篇博客</title>
       <link href="/2023/03/23/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
       <url>/2023/03/23/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</url>
